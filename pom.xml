@@ -19,7 +19,7 @@
     <properties>
         <zxing.version>3.2.1</zxing.version>
         <mybatis-plus.version>2.1.8</mybatis-plus.version>
-        <zookeeper.version>3.4.7</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <bcprov-jdk16.version>1.46</bcprov-jdk16.version>
         <shiro.version>1.2.3</shiro.version>
     </properties>
